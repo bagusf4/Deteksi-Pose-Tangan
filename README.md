@@ -1,2 +1,2 @@
 # Machine_Learning
-Machine Learning
+Automation with hand gesture detection
